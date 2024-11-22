@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-## 🌱 I'm currently learning Laravel and Javascript
+## 🌱 I'm currently learning Laravel and React Javascript
 ## 👀 I'm Interested in Web Design
 
 # 💫 About Me:
